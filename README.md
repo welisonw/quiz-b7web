@@ -23,10 +23,10 @@ A aplicação **English Quiz** foi desenvolvida durante o módulo Estados e Even
 $ git clone https://github.com/welisonw/quiz-b7web.git
 
 # Instale as dependências
-$ npm install  or  yarn install
+$ npm install  ou  yarn install
 
 # Inicie o projeto
-$ npm run dev  or  yarn dev
+$ npm run dev  ou  yarn run dev
 
 # O app vai inicializar em http://localhost:3000
 ```
