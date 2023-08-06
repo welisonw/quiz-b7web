@@ -22,6 +22,9 @@ A aplicação **English Quiz** foi desenvolvida durante o módulo Estados e Even
 # Clone este repositório
 $ git clone https://github.com/welisonw/quiz-b7web.git
 
+# Entre na pasta do projeto
+$ cd quiz-b7web
+
 # Instale as dependências
 $ npm install  ou  yarn install
 
